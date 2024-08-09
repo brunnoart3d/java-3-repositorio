@@ -5,6 +5,7 @@ public enum Enumeration
 {
     // Objects
     // Enumeration ENUM_OBJECT_1 = new Enumerator(); isso não funciona
+    //repare que os objetos tem no final só a virgula (,), só o objeto final tem (;)
     ENUM_OBJECT_1(123, "Texto1"),
     ENUM_OBJECT_2(456, "Texto2"),
     ENUM_OBJECT_3(789, "Texto3"); // instanciando objetos dentro da própria classe do tipo enum
